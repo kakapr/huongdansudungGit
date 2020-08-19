@@ -1,0 +1,4 @@
+<?php
+login
+echo "xinchao";
+?>
